@@ -14,6 +14,25 @@ App implemented with iOS and swift framework, third-pary libraies are not added.
   - iOS 13.0+
   - Simulator or iOS device
 
+iOS XCTest framework is used for Unit and UI testing.
+
+### Example
+Potrait                    |  Landscape
+:-------------------------:|:-------------------------:
+![](gif/1.gif)             |  ![](gif/2.gif)
+
+### Project Overview
+ MVVM                    | Unit Test                 | UI Test
+:-----------------------:|:-------------------------:|:-------------------------:
+![Project](/images/2.png) | ![Project](/images/3.png) | ![Project](/images/4.png)
+
+
+### Unit test and UI test result
+
+Unit Test Result         |  UI Test Result
+:-----------------------:|:-------------------------:
+![Project](/images/5.png)| ![Project](/images/6.png)
+
 
 License
 -------
