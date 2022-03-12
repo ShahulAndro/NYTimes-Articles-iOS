@@ -1,0 +1,906 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [{
+        "uri": "nyt://article/1b106c19-6665-536b-b727-bc2add66ff08",
+        "url": "https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html",
+        "id": 100000008250142,
+        "asset_id": 100000008250142,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-12 02:18:58",
+        "section": "World",
+        "subsection": "Asia Pacific",
+        "nytdsection": "world",
+        "adx_keywords": "Coronavirus (2019-nCoV);Shutdowns (Institutional);Shanghai (China);China",
+        "column": null,
+        "byline": "By Keith Bradsher",
+        "type": "Article",
+        "title": "Lockdowns spread in China as the virus surges in Shanghai and over a dozen provinces.",
+        "abstract": "Officials say that most of the recent cases detected in widespread testing are asymptomatic but still contagious.",
+        "des_facet": ["Coronavirus (2019-nCoV)", "Shutdowns (Institutional)"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Shanghai (China)", "China"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Lining up for coronavirus tests in a residential neighborhood in Shanghai on Thursday.",
+            "copyright": "Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/world/11virus-briefing-china/11virus-briefing-china-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/world/11virus-briefing-china/merlin_203590782_9e8836b5-9653-44b1-ad87-4d8e6f6aa697-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/world/11virus-briefing-china/merlin_203590782_9e8836b5-9653-44b1-ad87-4d8e6f6aa697-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/0aa32162-a5c9-5ebd-981b-53e4ae0350e8",
+        "url": "https://www.nytimes.com/2022/03/11/us/texas-transgender-child-abuse.html",
+        "id": 100000008249793,
+        "asset_id": 100000008249793,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:11:11",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Child Abuse and Neglect;Transgender and Transsexuals;Civil Rights and Liberties;Suits and Litigation (Civil);Abbott, Gregory W (1957- );American Civil Liberties Union;Lambda Legal Defense and Education Fund;Texas Department of Family and Protective Services;Texas;Travis County (Tex)",
+        "column": null,
+        "byline": "By J. David Goodman",
+        "type": "Article",
+        "title": "Texas Court Halts Abuse Inquiries Into Parents of Transgender Children",
+        "abstract": "A judge said the governor’s order to consider medically accepted treatments for transgender youth as abuse had been improperly adopted and violated the State Constitution.",
+        "des_facet": ["Child Abuse and Neglect", "Transgender and Transsexuals", "Civil Rights and Liberties", "Suits and Litigation (Civil)"],
+        "org_facet": ["American Civil Liberties Union", "Lambda Legal Defense and Education Fund", "Texas Department of Family and Protective Services"],
+        "per_facet": ["Abbott, Gregory W (1957- )"],
+        "geo_facet": ["Texas", "Travis County (Tex)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "People protested in Austin, Texas, this month against Gov. Greg Abbott’s order directing state officials to open abuse investigations into parents who provide hormones or puberty-suppressing drugs to their transgender children.",
+            "copyright": "Christopher Lee for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/us/11texas-case02/11texas-case02-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/11texas-case02/11texas-case02-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/11texas-case02/11texas-case02-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/63ba2fb2-1a43-5961-b4d6-7e0601842941",
+        "url": "https://www.nytimes.com/2022/03/10/arts/television/emilio-delgado-dead.html",
+        "id": 100000008249555,
+        "asset_id": 100000008249555,
+        "source": "New York Times",
+        "published_date": "2022-03-10",
+        "updated": "2022-03-11 22:55:06",
+        "section": "Arts",
+        "subsection": "Television",
+        "nytdsection": "arts",
+        "adx_keywords": "Deaths (Obituaries);Television;Actors and Actresses;Hispanic-Americans;Delgado, Emilio",
+        "column": null,
+        "byline": "By Vimal Patel",
+        "type": "Article",
+        "title": "Emilio Delgado, Luis on ‘Sesame Street’ for Four Decades, Dies at 81",
+        "abstract": "The actor was a fixture on the groundbreaking educational program. His character’s wedding to Maria on the show in 1988 captivated children and their parents.",
+        "des_facet": ["Deaths (Obituaries)", "Television", "Actors and Actresses", "Hispanic-Americans"],
+        "org_facet": [],
+        "per_facet": ["Delgado, Emilio"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Emilio Delgado during the 50th season of “Sesame Street.”",
+            "copyright": "Zach Hyman/Sesame Workshop, via Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/12/us/politics/11xp-delgado-obit1/11xp-delgado-obit-1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/12/us/politics/11xp-delgado-obit1/merlin_203631894_94f75f5c-6ae6-4701-8a14-beb1b396f813-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/12/us/politics/11xp-delgado-obit1/merlin_203631894_94f75f5c-6ae6-4701-8a14-beb1b396f813-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/a9452681-0485-50bc-8985-8528900cb409",
+        "url": "https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html",
+        "id": 100000008249002,
+        "asset_id": 100000008249002,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 22:59:23",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);Embargoes and Sanctions;Sailboats and Sailing;Putin, Vladimir V;Treasury Department;Commerce Department;United States Navy;Italy;Russia",
+        "column": null,
+        "byline": "By Julian E. Barnes, Michael Forsythe, David D. Kirkpatrick and Jason Horowitz",
+        "type": "Article",
+        "title": "U.S. Officials Say Superyacht Could be Putin’s",
+        "abstract": "They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member.",
+        "des_facet": ["Russian Invasion of Ukraine (2022)", "Embargoes and Sanctions", "Sailboats and Sailing"],
+        "org_facet": ["Treasury Department", "Commerce Department", "United States Navy"],
+        "per_facet": ["Putin, Vladimir V"],
+        "geo_facet": ["Italy", "Russia"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Scheherazade dominates the waterfront in the small Italian town of Marina di Carrara where it has been moored since September.",
+            "copyright": "Gaia Pianigiani/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/07/multimedia/11dc-intel-yacht/00yacht--Scheherazade-2-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/07/multimedia/11dc-intel-yacht/00yacht--Scheherazade-2-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/07/multimedia/11dc-intel-yacht/00yacht--Scheherazade-2-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/d262b0b9-e3da-5ee5-91e0-26e86b6e37cd",
+        "url": "https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html",
+        "id": 100000008250737,
+        "asset_id": 100000008250737,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:18:54",
+        "section": "World",
+        "subsection": "Europe",
+        "nytdsection": "world",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Biden, Joseph R Jr;Putin, Vladimir V;Chechnya (Russia);Kyiv (Ukraine);Russia;Ukraine",
+        "column": null,
+        "byline": "By Michael Levenson, Eric Schmitt and Neil MacFarquhar",
+        "type": "Article",
+        "title": "Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities",
+        "abstract": "But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting.",
+        "des_facet": ["Russian Invasion of Ukraine (2022)", "Defense and Military Forces"],
+        "org_facet": [],
+        "per_facet": ["Biden, Joseph R Jr", "Putin, Vladimir V"],
+        "geo_facet": ["Chechnya (Russia)", "Kyiv (Ukraine)", "Russia", "Ukraine"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "An explosion Friday after a Russian army tank fired on an apartment building in Mariupol, Ukraine.",
+            "copyright": "Evgeniy Maloletka/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/world/11ukrkaine-blog-ledeall-1/11ukrkaine-blog-ledeall-1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/world/11ukrkaine-blog-ledeall-1/merlin_203671941_362d3a7f-b92d-4d59-9789-0fd44fc24972-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/world/11ukrkaine-blog-ledeall-1/merlin_203671941_362d3a7f-b92d-4d59-9789-0fd44fc24972-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/8bfcf0ed-35ab-5296-9818-5a37eeb7dd6e",
+        "url": "https://www.nytimes.com/article/omicron-variant-ba2.html",
+        "id": 100000008250337,
+        "asset_id": 100000008250337,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:11:54",
+        "section": "Health",
+        "subsection": "",
+        "nytdsection": "health",
+        "adx_keywords": "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Research;your-feed-science",
+        "column": null,
+        "byline": "By Carl Zimmer",
+        "type": "Article",
+        "title": "‘Stealth’ Omicron Is Stealthy No More: What’s Known About the BA.2 Variant",
+        "abstract": "The subvariant of Omicron is not yet causing a new surge in the United States and probably won’t.",
+        "des_facet": ["Coronavirus Omicron Variant", "Coronavirus (2019-nCoV)", "Research", "your-feed-science"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A nurse administered a coronavirus test at a drive-through testing site in Hagerstown, Md.",
+            "copyright": "Kenny Holston for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/science/11virus-BA21/11virus-BA21-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/science/11virus-BA21/11virus-BA21-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/science/11virus-BA21/11virus-BA21-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/9dcc6f06-b7fd-550b-b248-7bca4fd7f809",
+        "url": "https://www.nytimes.com/2022/03/10/health/covid-vaccines-children.html",
+        "id": 100000008234531,
+        "asset_id": 100000008234531,
+        "source": "New York Times",
+        "published_date": "2022-03-10",
+        "updated": "2022-03-11 00:28:37",
+        "section": "Health",
+        "subsection": "",
+        "nytdsection": "health",
+        "adx_keywords": "your-feed-science;Children and Childhood;Vaccination and Immunization;Coronavirus (2019-nCoV);Parenting;Protective Clothing and Gear;Coronavirus Omicron Variant;Teenagers and Adolescence;Immune System;Food and Drug Administration;Centers for Disease Control and Prevention;Pfizer Inc;Moderna Inc;United States",
+        "column": null,
+        "byline": "By Apoorva Mandavilli",
+        "type": "Article",
+        "title": "New Vaccine Findings Pose Tough Questions for Parents of Young Children",
+        "abstract": "The F.D.A. temporarily halted efforts to authorize the Pfizer-BioNTech vaccine for young children amid several unexpected findings. The coming weeks should bring clarity.",
+        "des_facet": ["your-feed-science", "Children and Childhood", "Vaccination and Immunization", "Coronavirus (2019-nCoV)", "Parenting", "Protective Clothing and Gear", "Coronavirus Omicron Variant", "Teenagers and Adolescence", "Immune System"],
+        "org_facet": ["Food and Drug Administration", "Centers for Disease Control and Prevention", "Pfizer Inc", "Moderna Inc"],
+        "per_facet": [],
+        "geo_facet": ["United States"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A mobile vaccination van in Queens. Fewer than 25 percent of children ages 5 to 11 are fully vaccinated, and while more than half of adolescents 12 to 17 are fully vaccinated, only 12 percent have received a booster.",
+            "copyright": "James Estrin/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/09/science/00virus-kids1/00virus-kids1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/09/science/00virus-kids1/00virus-kids1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/09/science/00virus-kids1/00virus-kids1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/ea6213a7-ccfa-51e1-9b11-c5a25c76b469",
+        "url": "https://www.nytimes.com/2022/01/11/well/mind/melatonin-sleep-insomnia.html",
+        "id": 100000008077241,
+        "asset_id": 100000008077241,
+        "source": "New York Times",
+        "published_date": "2022-01-11",
+        "updated": "2022-01-18 00:01:37",
+        "section": "Well",
+        "subsection": "Mind",
+        "nytdsection": "well",
+        "adx_keywords": "Quarantine (Life and Culture);Sleep;Content Type: Service;Melatonin (Hormone);Dreams;Insomnia;Psychology and Psychologists;Anxiety and Stress;Sedatives;Drugs (Pharmaceuticals);Jet Lag",
+        "column": null,
+        "byline": "By Amelia Nierenberg",
+        "type": "Article",
+        "title": "Melatonin Isn’t a Sleeping Pill. Here’s How to Use It.",
+        "abstract": "The “vampire hormone” can act like a dose of sunset, tricking your body into feeling like it’s time to sleep.",
+        "des_facet": ["Quarantine (Life and Culture)", "Sleep", "Content Type: Service", "Melatonin (Hormone)", "Dreams", "Insomnia", "Psychology and Psychologists", "Anxiety and Stress", "Sedatives", "Drugs (Pharmaceuticals)", "Jet Lag"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Dadu Shin",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/01/18/well/21Well-Melatonin/21Well-Melatonin-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/01/18/well/21Well-Melatonin/21Well-Melatonin-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/01/18/well/21Well-Melatonin/21Well-Melatonin-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/6d1fc71e-9d54-5953-b072-d2f2c6e7410a",
+        "url": "https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html",
+        "id": 100000008245590,
+        "asset_id": 100000008245590,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:03:17",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);Drones (Pilotless Planes);Defense and Military Forces;Ukraine;Russia;Turkey",
+        "column": null,
+        "byline": "By Dave Philipps and Eric Schmitt",
+        "type": "Article",
+        "title": "Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia",
+        "abstract": "The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success.",
+        "des_facet": ["Russian Invasion of Ukraine (2022)", "Drones (Pilotless Planes)", "Defense and Military Forces"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Ukraine", "Russia", "Turkey"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Bayraktar TB2 drones are assembled in Turkey, but rely extensively on electronics made in the United States and Canada.",
+            "copyright": "Birol Bebek/Agence France-Presse — Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/us/politics/11dc-ukraine-drones-1/merlin_195277203_c8cddaca-df4a-4818-a8bb-6c8a2f93ff0e-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/politics/11dc-ukraine-drones-1/merlin_195277203_c8cddaca-df4a-4818-a8bb-6c8a2f93ff0e-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/politics/11dc-ukraine-drones-1/merlin_195277203_c8cddaca-df4a-4818-a8bb-6c8a2f93ff0e-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/11a27538-62bb-55d5-9bcb-c1708005f80d",
+        "url": "https://www.nytimes.com/2022/03/11/us/winter-storm-forecast-northeast.html",
+        "id": 100000008250145,
+        "asset_id": 100000008250145,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 21:18:16",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Weather;Snow and Snowstorms;National Weather Service;East Coast (US);Mid-Atlantic States (US);New England States (US);Southern States (US)",
+        "column": null,
+        "byline": "By Derrick Bryson Taylor",
+        "type": "Article",
+        "title": "Late-Winter Storm Set to Sweep Across the U.S. Into Saturday",
+        "abstract": "Winter weather alerts were in effect on Friday from Tennessee to Maine. The Northeast will receive the most snow, with some places expecting a foot or more, meteorologists said.",
+        "des_facet": ["Weather", "Snow and Snowstorms"],
+        "org_facet": ["National Weather Service"],
+        "per_facet": [],
+        "geo_facet": ["East Coast (US)", "Mid-Atlantic States (US)", "New England States (US)", "Southern States (US)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A late-winter storm swept through El Paso on Friday, giving palm trees in the area a rare coating of snow.",
+            "copyright": "Anthony Jackson-USA Today Network",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/multimedia/11xp-winter-storm-02/11xp-winter-storm-02-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/multimedia/11xp-winter-storm-02/11xp-winter-storm-02-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/multimedia/11xp-winter-storm-02/11xp-winter-storm-02-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/47f50a18-03b0-5783-b990-73c03fceb077",
+        "url": "https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html",
+        "id": 100000008248049,
+        "asset_id": 100000008248049,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-12 00:24:02",
+        "section": "Business",
+        "subsection": "",
+        "nytdsection": "business",
+        "adx_keywords": "Embargoes and Sanctions;Economic Conditions and Trends;Politics and Government;Russian Invasion of Ukraine (2022);War and Armed Conflicts;Renminbi (Currency);International Relations;Putin, Vladimir V;Xi Jinping;China;Russia",
+        "column": null,
+        "byline": "By Alexandra Stevenson and Keith Bradsher",
+        "type": "Article",
+        "title": "China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.",
+        "abstract": "Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies.",
+        "des_facet": ["Embargoes and Sanctions", "Economic Conditions and Trends", "Politics and Government", "Russian Invasion of Ukraine (2022)", "War and Armed Conflicts", "Renminbi (Currency)", "International Relations"],
+        "org_facet": [],
+        "per_facet": ["Putin, Vladimir V", "Xi Jinping"],
+        "geo_facet": ["China", "Russia"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Xi Jinping, the leader of China, and President Vladimir V. Putin of Russia in Moscow in 2019.",
+            "copyright": "Pool photo by Maxim Shipenkov",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/12/world/11JPchina-lifeline1-print/11china-lifeline1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/12/world/11JPchina-lifeline1-print/11china-lifeline1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/12/world/11JPchina-lifeline1-print/11china-lifeline1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/a22a8ed5-aee9-599f-ac18-929e0be7f8c4",
+        "url": "https://www.nytimes.com/2022/03/10/us/denver-security-guard-charges-dropped.html",
+        "id": 100000008249690,
+        "asset_id": 100000008249690,
+        "source": "New York Times",
+        "published_date": "2022-03-10",
+        "updated": "2022-03-11 10:31:29",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Self-Defense;Murders, Attempted Murders and Homicides;Right-Wing Extremism and Alt-Right;Demonstrations, Protests and Riots;Dolloff, Matthew (1990- );Keltner, Lee (1971-2020);Denver (Colo)",
+        "column": null,
+        "byline": "By Michael Levenson",
+        "type": "Article",
+        "title": "Prosecutors to Drop Murder Charge in Fatal Shooting After Right-Wing Rally in Denver",
+        "abstract": "The district attorney’s office said it was not able to overcome Matthew Dolloff’s claim that he had acted in “self-defense or defense of others” when he shot Lee John Keltner in 2020.",
+        "des_facet": ["Self-Defense", "Murders, Attempted Murders and Homicides", "Right-Wing Extremism and Alt-Right", "Demonstrations, Protests and Riots"],
+        "org_facet": [],
+        "per_facet": ["Dolloff, Matthew (1990- )", "Keltner, Lee (1971-2020)"],
+        "geo_facet": ["Denver (Colo)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The fatal encounter was captured in videos and photographs that circulated widely in news reports and on social media.",
+            "copyright": "Helen H. Richardson/The Denver Post, via Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/10/us/politics/10xp-dolloff-1/10xp-dolloff-1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/10/us/politics/10xp-dolloff-1/10xp-dolloff-1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/10/us/politics/10xp-dolloff-1/10xp-dolloff-1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/9aa8682f-e0ef-5ec2-97ac-9b03735818cd",
+        "url": "https://www.nytimes.com/2022/03/10/nyregion/harvey-marcelin-shopping-cart-body.html",
+        "id": 100000008248857,
+        "asset_id": 100000008248857,
+        "source": "New York Times",
+        "published_date": "2022-03-10",
+        "updated": "2022-03-11 14:54:51",
+        "section": "New York",
+        "subsection": "",
+        "nytdsection": "new york",
+        "adx_keywords": "Murders, Attempted Murders and Homicides;Marcelin, Harvey;Leyden, Susan (d 2022);Brooklyn (NYC)",
+        "column": null,
+        "byline": "By Rebecca Davis O’Brien and Ali Watkins",
+        "type": "Article",
+        "title": "She Killed Two Women. At 83, She Is Charged With Dismembering a Third.",
+        "abstract": "Harvey Marcelin was charged with murder after a head was found in her Brooklyn apartment. Officials said it belonged to a dismembered body discovered in a shopping cart.",
+        "des_facet": ["Murders, Attempted Murders and Homicides"],
+        "org_facet": [],
+        "per_facet": ["Marcelin, Harvey", "Leyden, Susan (d 2022)"],
+        "geo_facet": ["Brooklyn (NYC)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Investigators looked for clues last week after a dismembered human torso was found near Atlantic and Pennsylvania Avenues in the East New York neighborhood of  Brooklyn.",
+            "copyright": "Stephanie Keith for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/10/nyregion/10shoppingcartbody/10shoppingcartbody-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/10/nyregion/10shoppingcartbody/10shoppingcartbody-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/10/nyregion/10shoppingcartbody/10shoppingcartbody-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/9d8b2966-1b39-5177-a652-1be2fce4570c",
+        "url": "https://www.nytimes.com/2022/03/11/technology/facebook-meta-perks.html",
+        "id": 100000008250810,
+        "asset_id": 100000008250810,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-12 00:20:56",
+        "section": "Technology",
+        "subsection": "",
+        "nytdsection": "technology",
+        "adx_keywords": "Employee Fringe Benefits;Workplace Environment;Computers and the Internet;Laundry and Laundromats;Zuckerberg, Mark E;Facebook Inc;Meta Platforms Inc",
+        "column": null,
+        "byline": "By Mike Isaac, Ryan Mac and Sheera Frenkel",
+        "type": "Article",
+        "title": "Facebook’s Parent Company Will Make Employees Do Their Own Laundry",
+        "abstract": "The company told workers on Friday that it will reduce or eliminate some of its famous perks as it prepares for a return to the office.",
+        "des_facet": ["Employee Fringe Benefits", "Workplace Environment", "Computers and the Internet", "Laundry and Laundromats"],
+        "org_facet": ["Facebook Inc", "Meta Platforms Inc"],
+        "per_facet": ["Zuckerberg, Mark E"],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Many employees of Facebook’s parent company are expected to return to the office on at least a part-time basis by the end of March.",
+            "copyright": "Jason Henry for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/business/11facebookperks/merlin_165501837_66603f69-7c83-40c3-9a7d-454103379f7c-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/business/11facebookperks/merlin_165501837_66603f69-7c83-40c3-9a7d-454103379f7c-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/business/11facebookperks/merlin_165501837_66603f69-7c83-40c3-9a7d-454103379f7c-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/04ff0b39-a00d-5d18-9bdc-831f1d5a056d",
+        "url": "https://www.nytimes.com/2022/03/11/us/west-point-cadets-fentanyl-overdose.html",
+        "id": 100000008251584,
+        "asset_id": 100000008251584,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:22:28",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Drug Abuse and Traffic;Opioids and Opiates;Fentanyl;United States Military Academy;Wilton Manors (Fla)",
+        "column": null,
+        "byline": "By Vimal Patel",
+        "type": "Article",
+        "title": "5 West Point Cadets Overdose During Spring Break in Florida, Officials Say",
+        "abstract": "The cadets, along with another young man, were exposed to what is believed to be cocaine laced with fentanyl, and two were on ventilators late Friday, officials said.",
+        "des_facet": ["Drug Abuse and Traffic", "Opioids and Opiates", "Fentanyl"],
+        "org_facet": ["United States Military Academy"],
+        "per_facet": [],
+        "geo_facet": ["Wilton Manors (Fla)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The U.S. Military Academy at West Point, N.Y.",
+            "copyright": "Seth Wenig/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/us/politics/11xp-Fentanyl-sub/merlin_156132402_af7ff24f-51c6-4341-b470-3e8a7289ed30-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/politics/11xp-Fentanyl-sub/merlin_156132402_af7ff24f-51c6-4341-b470-3e8a7289ed30-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/politics/11xp-Fentanyl-sub/merlin_156132402_af7ff24f-51c6-4341-b470-3e8a7289ed30-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/baa39e01-6174-5fb6-b5a1-168a4828f2f5",
+        "url": "https://www.nytimes.com/2022/03/11/us/toby-price-mississippi.html",
+        "id": 100000008250688,
+        "asset_id": 100000008250688,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:12:25",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Education (K-12);Books and Literature;PEN American Center;Hinds County (Miss);Mississippi",
+        "column": null,
+        "byline": "By Maria Cramer and Isabella Grullón Paz",
+        "type": "Article",
+        "title": "An Educator Read ‘I Need a New Butt!’ to Children. Then He Was Fired.",
+        "abstract": "Toby Price, an assistant principal at an elementary school in Mississippi, read the book to a class of second graders over Zoom. “I am a firm believer that reluctant readers need the silly, funny books to hook them in,” he said.",
+        "des_facet": ["Education (K-12)", "Books and Literature"],
+        "org_facet": ["PEN American Center"],
+        "per_facet": [],
+        "geo_facet": ["Hinds County (Miss)", "Mississippi"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Toby Price, former assistant principal at Gary Road Elementary School in Hinds County, Miss., said he had hired a lawyer and planned to fight his termination.",
+            "copyright": "Toby Price",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/us/11xp-fired2/11xp-fired2-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/11xp-fired2/11xp-fired2-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/us/11xp-fired2/11xp-fired2-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/c568e254-faa9-573f-8889-70712314d732",
+        "url": "https://www.nytimes.com/2022/03/11/opinion/covid-health-pandemic.html",
+        "id": 100000008248827,
+        "asset_id": 100000008248827,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 23:01:20",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Tests (Medical);Coronavirus Risks and Safety Concerns;Disease Rates;Heating, Ventilation and Cooling (HVAC);Public-Private Sector Cooperation;Coronavirus (2019-nCoV);Politics and Government;Shutdowns (Institutional);Quarantines;Centers for Disease Control and Prevention;World Health Organization",
+        "column": null,
+        "byline": "By Zeynep Tufekci",
+        "type": "Article",
+        "title": "How Millions of Lives Might Have Been Saved From Covid-19",
+        "abstract": "Different choices that were available and plausible could have been made at several crucial turning points.",
+        "des_facet": ["Tests (Medical)", "Coronavirus Risks and Safety Concerns", "Disease Rates", "Heating, Ventilation and Cooling (HVAC)", "Public-Private Sector Cooperation", "Coronavirus (2019-nCoV)", "Politics and Government", "Shutdowns (Institutional)", "Quarantines"],
+        "org_facet": ["Centers for Disease Control and Prevention", "World Health Organization"],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by The New York Times; Photography by Image Source/Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/opinion/11Tufecki-image/11Tufecki-image-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/opinion/11Tufecki-image/11Tufecki-image-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/opinion/11Tufecki-image/11Tufecki-image-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/f7ac21e5-1d71-5210-997b-65c0ab8c3f88",
+        "url": "https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html",
+        "id": 100000008246386,
+        "asset_id": 100000008246386,
+        "source": "New York Times",
+        "published_date": "2022-03-09",
+        "updated": "2022-03-11 01:17:04",
+        "section": "World",
+        "subsection": "Europe",
+        "nytdsection": "world",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Civilian Casualties;Evacuations and Evacuees;Ukraine;Russia;Irpin (Ukraine);Kyiv (Ukraine)",
+        "column": null,
+        "byline": "By Andrew E. Kramer",
+        "type": "Article",
+        "title": "They Died by a Bridge in Ukraine. This Is Their Story.",
+        "abstract": "Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours.",
+        "des_facet": ["Russian Invasion of Ukraine (2022)", "Defense and Military Forces", "Civilian Casualties", "Evacuations and Evacuees"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Ukraine", "Russia", "Irpin (Ukraine)", "Kyiv (Ukraine)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Serhiy Perebyinis lost his wife, Tetiana, and both of their children to Russian mortar shelling as they tried to flee Irpin, near Ukraine’s capital, Kyiv.",
+            "copyright": "Lynsey Addario for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-family-topart/09ukraine-family-topart-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-family-topart/09ukraine-family-topart-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/09/multimedia/09ukraine-family-topart/09ukraine-family-topart-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/2d47e243-7c49-5853-b4ea-4154a6826e5a",
+        "url": "https://www.nytimes.com/2022/03/10/us/politics/senate-spending-bill-approved.html",
+        "id": 100000008248646,
+        "asset_id": 100000008248646,
+        "source": "New York Times",
+        "published_date": "2022-03-10",
+        "updated": "2022-03-11 11:03:44",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Federal Budget (US);Law and Legislation;United States Politics and Government;United States Defense and Military Forces;Russian Invasion of Ukraine (2022);Foreign Aid;Humanitarian Aid;Biden, Joseph R Jr;Democratic Party;House of Representatives;Republican Party;Senate;Ukraine",
+        "column": null,
+        "byline": "By Emily Cochrane",
+        "type": "Article",
+        "title": "Congress Clears $1.5 Trillion Spending Bill, Including Ukraine Aid",
+        "abstract": "President Biden is expected to sign the measure, the first major spending bill since he took office.",
+        "des_facet": ["Federal Budget (US)", "Law and Legislation", "United States Politics and Government", "United States Defense and Military Forces", "Russian Invasion of Ukraine (2022)", "Foreign Aid", "Humanitarian Aid"],
+        "org_facet": ["Democratic Party", "House of Representatives", "Republican Party", "Senate"],
+        "per_facet": ["Biden, Joseph R Jr"],
+        "geo_facet": ["Ukraine"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Senator Chuck Schumer, the Democratic leader, called the legislation “the strongest, boldest and most significant government funding package we’ve seen in a very long time.”",
+            "copyright": "Tom Brenner for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/10/us/politics/10dc-spending-image/10dc-spending-image-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/10/us/politics/10dc-spending-image/10dc-spending-image-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/10/us/politics/10dc-spending-image/10dc-spending-image-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }, {
+        "uri": "nyt://article/aa08c0d7-17e7-59ea-a8c0-0f96aa49118d",
+        "url": "https://www.nytimes.com/2022/03/11/world/asia/hong-kong-hospitals-covid.html",
+        "id": 100000008250278,
+        "asset_id": 100000008250278,
+        "source": "New York Times",
+        "published_date": "2022-03-11",
+        "updated": "2022-03-11 14:51:49",
+        "section": "World",
+        "subsection": "Asia Pacific",
+        "nytdsection": "world",
+        "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Morgues and Mortuaries;Hong Kong",
+        "column": null,
+        "byline": "By Alexandra Stevenson",
+        "type": "Article",
+        "title": "Hong Kong’s overwhelmed hospitals are keeping the dead in wards with Covid patients.",
+        "abstract": "For several weeks, bodies have been piling up at hospitals because the city’s public mortuaries, which can take up to 3,000 bodies, are full.",
+        "des_facet": ["Coronavirus (2019-nCoV)", "Vaccination and Immunization", "Morgues and Mortuaries"],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": ["Hong Kong"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A person was loaded onto a transfer bus outside Queen Elizabeth Hospital in Hong Kong on Thursday.",
+            "copyright": "Isaac Lawrence/Agence France-Presse — Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https://static01.nyt.com/images/2022/03/11/multimedia/11virus-briefing-hongkong-transfer/11virus-briefing-hongkong-transfer-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/multimedia/11virus-briefing-hongkong-transfer/11virus-briefing-hongkong-transfer-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https://static01.nyt.com/images/2022/03/11/multimedia/11virus-briefing-hongkong-transfer/11virus-briefing-hongkong-transfer-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }],
+        "eta_id": 0
+    }]
+}
