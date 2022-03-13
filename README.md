@@ -16,6 +16,8 @@ App implemented with iOS and swift framework, third-pary libraies are not added.
 
 iOS XCTest framework is used for Unit and UI testing.
 
+POM(Page Object Model) pattern used For UI Testing.
+
 ### Example
 Potrait                    |  Landscape
 :-------------------------:|:-------------------------:
